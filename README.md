@@ -6,18 +6,18 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/taskTodayApp?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/taskTodayApp?style=for-the-badge)
 
-<h2>Tela Inicial</h2>
+<h2>Main Screen</h2>
 <img src="https://github.com/juliosn/Compose-Timer/assets/99426563/7422b558-bffa-4ab3-98a2-c06f6b59cda6">
 
-<h2>Tela ao finalizar o cronômetro</h2>
+<h2>Screen at end of timer</h2>
 <img src="https://github.com/juliosn/Compose-Timer/assets/99426563/56a27009-c03c-42e2-b90c-57ec720f6bd1">
 
-> Projeto acadêmico realizdo em 2023 que consiste na criação de um aplicativo de cronômetro.
+> Academic project carried out in 2023 that consists of the creation of a stopwatch application.
 
 
-### Ajustes e melhorias
+### Adjustments and Improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still under development and the next updates will focus on the following tasks:
 
-- [ ] Melhorar interface do menu
-- [ ] Adicionar funcionalidades para gerenciamento de tempo (alterar o tempo do cronômetro, reiniciar a qualquer momento etc.)
+- [ ] Improve the interface
+- [ ] Add functionality for time management (change timer, restart at any time and others)
